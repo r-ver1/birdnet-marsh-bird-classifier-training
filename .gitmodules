@@ -1,0 +1,4 @@
+[submodule "external/few-shot-transfer-learning-bioacoustics"]
+	path = external/few-shot-transfer-learning-bioacoustics
+	url = https://github.com/r-ver1/few-shot-transfer-learning-bioacoustics.git
+	branch = marsh-bird-workflow

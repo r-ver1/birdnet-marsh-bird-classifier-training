@@ -1,0 +1,21 @@
+{
+  "training_data_audio_path": "output/gio_training/pilotKIRA/audio",
+  "training_data_annotations_path": "output/gio_training/pilotKIRA/training_data_annotations.csv",
+  "source_species_list_file": "configs/KIRA/BirdNET_v2.4_source_species_list.txt",
+  "target_species_list_file": "configs/KIRA/target_species_list.txt",
+
+  "k": 5,
+  "sample_sizes": [10],
+  "epochs": 50,
+  "learning_rate": 0.001,
+  "batch_size": 10,
+  "hidden_units": 0,
+  "training_set_proportion": 0.8,
+  "development_set_size": 125,
+  "test_set_size": 4,
+
+  "training_seed": 1,
+
+  "run_name": "KIRA",
+  "output_root": "output/gio_training/KIRA/fewshot"
+}

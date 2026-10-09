@@ -1,0 +1,22 @@
+Agelaius phoeniceus_Red-winged Blackbird
+Rallus elegans_King Rail
+Acris crepitans_Northern Cricket Frog
+Branta canadensis_Canada Goose
+Lithobates clamitans_Green Frog
+Lithobates catesbeianus_American Bullfrog
+Cistothorus palustris_Marsh Wren
+Melospiza georgiana_Swamp Sparrow
+Geothlypis trichas_Common Yellowthroat
+Cardinalis cardinalis_Northern Cardinal
+Water
+Melospiza melodia_Song Sparrow
+Pseudacris triseriata_Striped Chorus Frog
+Podilymbus podiceps_Pied-billed Grebe
+Setophaga petechia_Yellow Warbler
+Porzana carolina_Sora
+Turdus migratorius_American Robin
+Ixobrychus exilis_Least Bittern
+Rallus limicola_Virginia Rail
+Charadrius vociferus_Killdeer
+Gallinula galeata_Common Gallinule
+Botaurus lentiginosus_American Bittern
