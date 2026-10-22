@@ -3,3 +3,9 @@ birdbrain_ssh.txt
 .Rhistory
 .RData
 .Ruserdata
+
+# Local training data and generated outputs
+/output/
+
+# Local Python training environment
+/.venv-pretrain/
